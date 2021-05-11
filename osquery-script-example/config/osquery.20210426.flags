@@ -1,0 +1,12 @@
+--tls_server_certs=C:\Program Files\osquery\cert\cert.pem
+--tls_hostname=localhost:9527
+--host_identifier=hostname
+--enroll_tls_endpoint=/api/v1/osquery/enroll
+--config_plugin=filesystem
+--logger_plugin=tls,filesystem
+--logger_tls_endpoint=/api/v1/osquery/log
+--logger_tls_period=10
+--verbose=true
+--enable_ntfs_event_publisher=false
+--enable_powershell_events_subscriber=true
+--utc=false

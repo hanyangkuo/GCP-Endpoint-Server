@@ -1,0 +1,1 @@
+msiexec /x "../bin/osquery-4.7.0.msi" /l* "C:\Program Files\osquery\OsqueryUninstall.log" /passive

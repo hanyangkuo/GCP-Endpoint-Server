@@ -1,0 +1,14 @@
+Remotely interfacing osquery
+https://osquery.readthedocs.io/en/stable/deployment/remote/
+
+Command-line flags
+https://osquery.readthedocs.io/en/stable/installation/cli-flags/#windows-only-events-control-flags
+
+Enabling Windows Event Log support [wevtutil]
+https://osquery.readthedocs.io/en/stable/installation/install-windows/#enabling-windows-event-log-support
+
+Configuring an osquery deployment
+https://osquery.readthedocs.io/en/stable/deployment/configuration/#configuration-components
+
+osquery 操作系統檢測與分析
+https://bloodzer0.github.io/ossa/infrastructure-security/host-security/ids-ips/osquery/
